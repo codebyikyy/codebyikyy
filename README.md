@@ -26,7 +26,7 @@ Likes:
   - Apples 🍎
   - Writing names
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=dark&hide_border=true" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codebyikyy&show_icons=true&theme=dark&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=codebyikyy&theme=dark&hide_border=true" /> </p>
 
 "You can't ever win if you're always on the defensive. To win, you have to attack!"
 — Light Yagami
