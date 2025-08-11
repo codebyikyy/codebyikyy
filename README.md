@@ -15,7 +15,7 @@
 
 ### 🕯️ About Me
 
-Name: Light Yagami (a.k.a Kira)
+Name: Rifqi Maulana (a.k.a Kira)
 Occupation: God of the New World
 Location: Somewhere in the Shinigami Realm
 Likes:
