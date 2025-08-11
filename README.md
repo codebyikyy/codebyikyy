@@ -26,9 +26,6 @@ Apples 🍎
 
 Writing names
 
-yaml
-Copy
-Edit
 
 ---
 
