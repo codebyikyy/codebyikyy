@@ -18,15 +18,9 @@
 Name: Rifqi Maulana (a.k.a Kira)
 Occupation: God of the New World
 Location: Somewhere in the Shinigami Realm
-Likes:
-
-Justice
-
+Likes: Justice
 Apples 🍎
-
 Writing names
-
-
 ---
 
 ### ⚙️ GitHub Stats
