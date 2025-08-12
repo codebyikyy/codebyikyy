@@ -1,6 +1,6 @@
 
 <h1 align="center">「死のノート」</h1>
-<h2 align="center">Welcome to my world.</h2>
+<h2 align="center">Welcome to my world</h2>
 
 <p align="center">
   <img src="https://cache.teia.rocks/ipfs/QmQeiE6tskK9kW4gPjpqd9cpLyGSX1qBvmoUL5G4zvntah" width="120" />
@@ -15,18 +15,23 @@
 
 ---
 
-### 🕯️ About Me
+🕯️ About Me
 
-Name: Rifqi Maulana (a.k.a Kira)
+Name: Rifqi Maulana (a.k.a. Kira)
 
-Occupation: Technology is Power in the Right Hands 💻🍎
+Occupation: Turning Technology into Power in the Right Hands 💻🍎
 
-Location: Somewhere in the Shinigami Realm
+Location: Wandering Somewhere in the Shinigami Realm
 
-Likes: 
-Justice
-Apples 🍎
-Writing names
+Interests:
+
+Pursuing Justice ⚖️
+
+Crunching on Apples 🍎
+
+Writing Names… and Code ✍️
+
+
 
 
 ---
