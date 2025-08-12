@@ -1,9 +1,11 @@
+
 <h1 align="center">「死のノート」</h1>
 <h2 align="center">Welcome to my world.</h2>
 
 <p align="center">
-  <img src="https://avatars.pfptown.com/458/light-yagami-pfp-3679.png" alt="Your Photo" width="180" style="border-radius:50%; border:3px solid #fff;" />
+  <img src="https://cache.teia.rocks/ipfs/QmQeiE6tskK9kW4gPjpqd9cpLyGSX1qBvmoUL5G4zvntah" width="120" />
 </p>
+
 
 <p align="center">
   <img src="https://media.tenor.com/WVyZzs2JmhUAAAAd/death-note-light-yagami.gif" width="280" />
@@ -17,7 +19,7 @@
 
 Name: Rifqi Maulana (a.k.a Kira)
 
-Occupation: God of the New World
+Occupation: Technology is Power in the Right Hands 💻🍎
 
 Location: Somewhere in the Shinigami Realm
 
